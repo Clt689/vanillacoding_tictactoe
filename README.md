@@ -1,6 +1,7 @@
 # TS REACT 101 Calculator Example
 
-![](./README/capture.png)
+<img src= "https://github.com/user-attachments/assets/24f3fce2-75fb-434d-a96f-a73bad4ce064">
+
 
 ## 실행 방법
 
