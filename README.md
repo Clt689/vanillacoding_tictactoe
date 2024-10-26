@@ -1,7 +1,6 @@
-# TS REACT 101 Calculator Example
+# TS + REACT Tic Tac Toe Example
 
-<img src= "https://github.com/user-attachments/assets/24f3fce2-75fb-434d-a96f-a73bad4ce064">
-
+<img width="642" alt="image" src="https://github.com/user-attachments/assets/b08e4559-413e-4b91-b94f-2ac7c6b5b37d">
 
 ## 실행 방법
 
